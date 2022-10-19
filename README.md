@@ -64,4 +64,4 @@ The below are the observations for the given data set.
 > Model 3: After Data Augumentor, Normalization and l2 regularization and extra layer model accuracy is improved and model underfitting issue also solved.
 
 ## Contact
-Created by Ashish Kumar Singh[@ashish0688] - feel free to contact me!
+Created by [Ashish Kumar Singh](https://github.com/ashish0688) - feel free to contact me!
