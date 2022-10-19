@@ -53,3 +53,15 @@ The data set contains the following diseases:
   * Choose an appropriate optimiser and loss function for model training
   * Train the model for ~30 epochs
   * Write your findings after the model fit, see if the issues are resolved or not?
+
+## Conclusions
+The below are the observations for the given data set.
+
+> Model 1: Initially we tried without any data augmentation , dropouts and the model is clearly Overfitting.
+
+> Model 2: After adding Augumentation and Dropouts model overfitting issue is solved but model accuracy is reduced. To overcome this data augumentation and batch Normalization and l2 regularization is added.
+
+> Model 3: After Data Augumentor, Normalization and l2 regularization and extra layer model accuracy is improved and model underfitting issue also solved.
+
+## Contact
+Created by Ashish Kumar Singh[@ashish0688] - feel free to contact me!
